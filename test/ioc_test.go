@@ -2,8 +2,8 @@ package test
 
 import (
 	"errors"
-	"github.com/aivyss/bean"
-	"github.com/aivyss/bean/test/testEntity"
+	"github.com/aivyss/go-bean"
+	"github.com/aivyss/go-bean/test/testEntity"
 	rec "github.com/aivyss/typex/recover"
 	"github.com/stretchr/testify/assert"
 	"testing"
