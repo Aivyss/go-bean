@@ -1,7 +1,7 @@
 package test
 
 import (
-	"github.com/aivyss/bean"
+	"go-bean"
 	"testing"
 )
 
