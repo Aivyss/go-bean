@@ -5,7 +5,7 @@ For this reason, this library that can perform functions similar to IoC and DI s
 
 # Import
 ```shell
-$ go get github.com/aivyss/bean@latest
+$ go get github.com/aivyss/go-bean@latest
 ```
 
 # Purpose of Use
